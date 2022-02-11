@@ -1,0 +1,19 @@
+wheel
+gmsh
+gdspy
+numpy
+networkx
+pandoc
+meshio
+scipy
+plotly
+pytest
+pyclipper
+pygmsh
+matplotlib
+shapely
+lxml
+termcolor
+colorama
+sphinxcontrib-napoleon
+# halo
